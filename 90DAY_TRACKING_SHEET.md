@@ -7,18 +7,18 @@
 
 ## 📊 OVERALL STATS
 
-**Total Problems Solved**: 0 / 77
-**Easy**: 0 / 45
+**Total Problems Solved**: 1 / 77
+**Easy**: 1 / 45
 **Medium**: 0 / 32
-**Days Practiced**: 0 / 90
-**Current Streak**: 0 days
+**Days Practiced**: 1 / 90
+**Current Streak**: 1 day (TODAY - March 9!) 🔥
 
 ---
 
 ## WEEK 1: Python Refresher + Arrays (Jan 21-27)
 **Goal**: Solve 7 easy array problems
 
-- [ ] Day 1 (Jan 21): Two Sum (LC 1) - Time: ___ min
+- [x] Day 1 (Mar 9): Two Sum (LC 1) - Time: 45 min ✅
 - [ ] Day 2 (Jan 22): Best Time to Buy/Sell Stock (LC 121) - Time: ___ min
 - [ ] Day 3 (Jan 23): Contains Duplicate (LC 217) - Time: ___ min
 - [ ] Day 4 (Jan 24): Valid Anagram (LC 242) - Time: ___ min
